@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Hmoeaung
-- 👀 I’m interested in android app using java and kotlin
+- 👋 Hi, I’m @Hmoeaung in Github new member. I don't have any basic coding knowledge.
+- 👀 I’m interested in android app
 - 🌱 I’m currently learning java code. But I've trouble  in learnign java code introduction course
 - 💞️ I’m looking to collaborate on my course and actoins.
 - 📫 How to reach me. You can contact me by email address hlwammoeaung.333@gmail.com
